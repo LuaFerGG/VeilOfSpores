@@ -1,0 +1,42 @@
+# --- Unity ---
+/[Llaves recomendadas para Unity]/
+[Llaves recomendadas para Unity]/
+[Llaves recomendadas para Unity]/
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/Logs/
+/MemoryCaptures/
+/UserSettings/
+/Assets/AssetStoreTools*
+
+# --- VS/JetBrains Rider ---
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.db
+*.bak
+*.swp
+
+# --- Sistema ---
+.DS_Store
+Thumbs.db
+
+# --- Otros ---
+/Build/
+/Builds/
+/[Oo]bj/
+/[Bb]in/
